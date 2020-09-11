@@ -1,2 +1,2 @@
 # goit-markup-hw-01
-https://github.com/SushkoIllya/goit-markup-hw-01/blob/gh-pages/index.html
+https://sushkoillya.github.io/goit-markup-hw-01/
